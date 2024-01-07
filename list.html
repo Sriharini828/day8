@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Fruit</title>
+    </head>
+    <body>
+        <ol type="A">
+       <li>apple</li>
+       <li>orange</li>
+       <li>banana</li>     
+        </ol>
+        <ul>
+            <li>cars</li>
+            <li>bikes</li>
+            <li>cycle</li>
+        </ul>
+        <ul type="square">
+        <li>cars</li>
+        <li> bikes</li>
+        <li>cycle</li>
+        </ul>
+        <ul>Animals</ul>
+        <ol>
+            <li>Dog</li>
+            <li>cat</li>
+            <li>hen</li>
+        </ol>
+        <ul>
+            <li>FRUITS</li>
+            <ol>
+                <li>Apple</li>
+                <li>orange</li>
+            </ol>
+            </ul>
+            <ul>
+                <li>ANIMALS</li>
+                <ol type="i">
+                    <li>dog</li>
+                    <li>cat</li>
+                </ol>
+            </ul>
+        </ul>
+    </body>
+</html>
